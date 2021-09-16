@@ -1,0 +1,27 @@
+                            .page{
+                            font-family: 'dubai-medium';
+                            font-size: 12px;
+
+                            }
+
+                            table.customTable {
+  width: 100%;
+  background-color: #FFFFFF;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #000000;
+  border-style: solid;
+  color: #000000;
+  margin-top: 10px;
+}
+
+table.customTable td, table.customTable th {
+  border-width: 2px;
+  border-color: #000000;
+  border-style: solid;
+  padding: 5px;
+}
+
+table.customTable thead {
+  background-color: #D1D1D1;
+}
